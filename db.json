@@ -1,13 +1,17 @@
   "geom": [
     {
-      "id": 1,
-      "latitude": 47.225556,
-      "longitude": 39.717442
+      "id": 1
+      {
+        "latitude": 47.225556,
+        "longitude": 39.717442
+      }
     },
     {
-      "id": 2,
-      "latitude": 47.228872,
-      "longitude": 39.742538
+      "id": 2
+      {
+        "latitude": 47.228872,
+        "longitude": 39.742538
+      }
     }
   ],
   "profile": {
